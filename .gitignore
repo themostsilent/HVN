@@ -1,2 +1,4 @@
 /target
 /docs
+/cmake-build-*/
+/.idea/
